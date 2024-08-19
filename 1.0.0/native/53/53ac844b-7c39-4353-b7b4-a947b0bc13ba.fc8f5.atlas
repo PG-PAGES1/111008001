@@ -1,0 +1,167 @@
+
+h_vampire_atlas_symbols.png
+size: 713,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_vamp_bg
+  rotate: true
+  xy: 1, 6
+  size: 150, 175
+  orig: 150, 175
+  offset: 0, 0
+  index: -1
+h_vamp_deco
+  rotate: false
+  xy: 699, 24
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+h_vamp_earing_L
+  rotate: true
+  xy: 602, 38
+  size: 13, 54
+  orig: 13, 54
+  offset: 0, 0
+  index: -1
+h_vamp_earing_R
+  rotate: true
+  xy: 550, 19
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+h_vamp_eyewhite_L
+  rotate: false
+  xy: 579, 8
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+h_vamp_eyewhite_R
+  rotate: false
+  xy: 525, 1
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+h_vamp_finger_01
+  rotate: true
+  xy: 602, 21
+  size: 15, 49
+  orig: 15, 49
+  offset: 0, 0
+  index: -1
+h_vamp_finger_02
+  rotate: true
+  xy: 456, 1
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+h_vamp_finger_03
+  rotate: true
+  xy: 505, 11
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+h_vamp_finger_04
+  rotate: false
+  xy: 689, 54
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+h_vamp_frame
+  rotate: true
+  xy: 178, 6
+  size: 150, 175
+  orig: 150, 175
+  offset: 0, 0
+  index: -1
+h_vamp_hair_L
+  rotate: true
+  xy: 355, 1
+  size: 28, 99
+  orig: 28, 99
+  offset: 0, 0
+  index: -1
+h_vamp_hair_L_01
+  rotate: true
+  xy: 608, 85
+  size: 71, 98
+  orig: 88, 98
+  offset: 17, 0
+  index: -1
+h_vamp_hair_R
+  rotate: true
+  xy: 602, 53
+  size: 30, 85
+  orig: 30, 107
+  offset: 0, 22
+  index: -1
+h_vamp_hair_R_01
+  rotate: true
+  xy: 499, 39
+  size: 51, 101
+  orig: 51, 104
+  offset: 0, 3
+  index: -1
+h_vamp_hand
+  rotate: false
+  xy: 658, 22
+  size: 39, 29
+  orig: 39, 43
+  offset: 0, 14
+  index: -1
+h_vamp_head
+  rotate: false
+  xy: 355, 31
+  size: 142, 125
+  orig: 165, 137
+  offset: 11, 0
+  index: -1
+h_vamp_mouth
+  rotate: false
+  xy: 550, 2
+  size: 27, 15
+  orig: 29, 15
+  offset: 1, 0
+  index: -1
+h_vamp_neck
+  rotate: false
+  xy: 499, 92
+  size: 107, 64
+  orig: 107, 64
+  offset: 0, 0
+  index: -1
+h_vamp_pupil_L
+  rotate: false
+  xy: 596, 8
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+h_vamp_pupil_R
+  rotate: false
+  xy: 607, 10
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+h_vamp_teeth_01
+  rotate: false
+  xy: 505, 1
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+h_vamp_teeth_02
+  rotate: false
+  xy: 579, 1
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1

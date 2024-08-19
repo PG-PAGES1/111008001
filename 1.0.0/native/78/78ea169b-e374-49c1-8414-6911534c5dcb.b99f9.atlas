@@ -1,0 +1,20 @@
+
+btn.png
+size: 958,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tw_collect
+  rotate: false
+  xy: 2, 2
+  size: 552, 273
+  orig: 576, 293
+  offset: 12, 9
+  index: -1
+tw_collect_vfx_screen
+  rotate: false
+  xy: 556, 75
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1

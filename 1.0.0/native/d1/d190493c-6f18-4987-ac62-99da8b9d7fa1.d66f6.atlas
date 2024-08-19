@@ -1,0 +1,258 @@
+
+btn2.png
+size: 2015,627
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sb_arrow
+  rotate: true
+  xy: 1885, 389
+  size: 116, 118
+  orig: 116, 118
+  offset: 0, 0
+  index: -1
+sb_arrow_blur
+  rotate: true
+  xy: 1752, 227
+  size: 116, 118
+  orig: 116, 118
+  offset: 0, 0
+  index: -1
+sb_arrow_blur_grey
+  rotate: true
+  xy: 1877, 135
+  size: 116, 118
+  orig: 116, 118
+  offset: 0, 0
+  index: -1
+sb_arrow_grey
+  rotate: false
+  xy: 1877, 15
+  size: 116, 118
+  orig: 116, 118
+  offset: 0, 0
+  index: -1
+sb_auto
+  rotate: false
+  xy: 216, 14
+  size: 210, 189
+  orig: 248, 218
+  offset: 19, 7
+  index: -1
+sb_auto_button
+  rotate: false
+  xy: 1885, 507
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+sb_button
+  rotate: false
+  xy: 887, 154
+  size: 153, 154
+  orig: 153, 154
+  offset: 0, 0
+  index: -1
+sb_hover_vfx_a_screen
+  rotate: false
+  xy: 2, 205
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+sb_hover_vfx_b_screen
+  rotate: false
+  xy: 428, 28
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+sb_hover_vfx_c_screen
+  rotate: false
+  xy: 1610, 201
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+sb_hover_vfx_d_screen
+  rotate: false
+  xy: 675, 63
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+sb_rim
+  rotate: false
+  xy: 2, 5
+  size: 212, 198
+  orig: 216, 202
+  offset: 2, 2
+  index: -1
+sb_vfx_a_screen_00
+  rotate: false
+  xy: 1457, 35
+  size: 142, 144
+  orig: 200, 200
+  offset: 30, 28
+  index: -1
+sb_vfx_a_screen_01
+  rotate: false
+  xy: 1184, 179
+  size: 142, 146
+  orig: 200, 200
+  offset: 31, 27
+  index: -1
+sb_vfx_a_screen_02
+  rotate: false
+  xy: 1235, 329
+  size: 142, 146
+  orig: 200, 200
+  offset: 31, 27
+  index: -1
+sb_vfx_a_screen_03
+  rotate: false
+  xy: 1093, 477
+  size: 142, 148
+  orig: 200, 200
+  offset: 33, 26
+  index: -1
+sb_vfx_a_screen_04
+  rotate: false
+  xy: 887, 2
+  size: 142, 150
+  orig: 200, 200
+  offset: 33, 25
+  index: -1
+sb_vfx_a_screen_05
+  rotate: false
+  xy: 1031, 2
+  size: 140, 150
+  orig: 200, 200
+  offset: 35, 25
+  index: -1
+sb_vfx_a_screen_06
+  rotate: false
+  xy: 1042, 158
+  size: 140, 150
+  orig: 200, 200
+  offset: 35, 25
+  index: -1
+sb_vfx_a_screen_07
+  rotate: false
+  xy: 1173, 6
+  size: 140, 150
+  orig: 200, 200
+  offset: 35, 25
+  index: -1
+sb_vfx_a_screen_08
+  rotate: false
+  xy: 1093, 327
+  size: 140, 148
+  orig: 200, 200
+  offset: 35, 26
+  index: -1
+sb_vfx_a_screen_09
+  rotate: false
+  xy: 1237, 479
+  size: 140, 146
+  orig: 200, 200
+  offset: 34, 27
+  index: -1
+sb_vfx_a_screen_10
+  rotate: false
+  xy: 1315, 31
+  size: 140, 146
+  orig: 200, 200
+  offset: 34, 27
+  index: -1
+sb_vfx_a_screen_11
+  rotate: false
+  xy: 1328, 181
+  size: 140, 146
+  orig: 200, 200
+  offset: 34, 27
+  index: -1
+sb_vfx_a_screen_12
+  rotate: false
+  xy: 1379, 481
+  size: 138, 144
+  orig: 200, 200
+  offset: 35, 28
+  index: -1
+sb_vfx_a_screen_13
+  rotate: false
+  xy: 1379, 335
+  size: 138, 144
+  orig: 200, 200
+  offset: 35, 28
+  index: -1
+sb_vfx_a_screen_14
+  rotate: false
+  xy: 1470, 189
+  size: 138, 144
+  orig: 200, 200
+  offset: 35, 28
+  index: -1
+sb_vfx_a_screen_15
+  rotate: false
+  xy: 1601, 43
+  size: 138, 144
+  orig: 200, 200
+  offset: 35, 28
+  index: -1
+sb_vfx_a_screen_16
+  rotate: true
+  xy: 1741, 487
+  size: 138, 142
+  orig: 200, 200
+  offset: 35, 29
+  index: -1
+sb_vfx_a_screen_17
+  rotate: false
+  xy: 1519, 343
+  size: 138, 142
+  orig: 200, 200
+  offset: 35, 29
+  index: -1
+sb_vfx_a_screen_18
+  rotate: true
+  xy: 1519, 487
+  size: 138, 140
+  orig: 200, 200
+  offset: 35, 30
+  index: -1
+sb_vfx_a_screen_19
+  rotate: false
+  xy: 1659, 345
+  size: 138, 140
+  orig: 200, 200
+  offset: 34, 30
+  index: -1
+sb_vfx_a_screen_20
+  rotate: false
+  xy: 1741, 61
+  size: 134, 138
+  orig: 200, 200
+  offset: 37, 31
+  index: -1
+sb_vfx_a_screen_21
+  rotate: true
+  xy: 1877, 253
+  size: 134, 136
+  orig: 200, 200
+  offset: 36, 31
+  index: -1
+sb_vfx_d_screen
+  rotate: false
+  xy: 424, 275
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+sb_vfx_e_add
+  rotate: false
+  xy: 776, 310
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+h_chalice_atlas_symbols.png
+size: 631,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_chalice_back
+  rotate: true
+  xy: 533, 180
+  size: 78, 51
+  orig: 78, 56
+  offset: 0, 5
+  index: -1
+h_chalice_bg
+  rotate: true
+  xy: 355, 164
+  size: 151, 176
+  orig: 151, 176
+  offset: 0, 0
+  index: -1
+h_chalice_blood_01
+  rotate: true
+  xy: 14, 1
+  size: 10, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+h_chalice_blood_02
+  rotate: false
+  xy: 25, 4
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+h_chalice_blood_03
+  rotate: true
+  xy: 1, 1
+  size: 10, 11
+  orig: 10, 13
+  offset: 0, 2
+  index: -1
+h_chalice_blood_back
+  rotate: true
+  xy: 586, 200
+  size: 58, 33
+  orig: 65, 33
+  offset: 2, 0
+  index: -1
+h_chalice_blood_front
+  rotate: false
+  xy: 533, 260
+  size: 80, 55
+  orig: 81, 60
+  offset: 1, 5
+  index: -1
+h_chalice_frame
+  rotate: true
+  xy: 1, 13
+  size: 302, 352
+  orig: 302, 352
+  offset: 0, 0
+  index: -1
+h_chalice_front
+  rotate: false
+  xy: 523, 31
+  size: 107, 131
+  orig: 107, 136
+  offset: 0, 5
+  index: -1
+h_chalice_glow
+  rotate: true
+  xy: 355, 4
+  size: 158, 166
+  orig: 158, 190
+  offset: 0, 24
+  index: -1
